@@ -1,0 +1,23 @@
+{
+  "name": "krishilink-ai",
+  "version": "1.0.0",
+  "description": "KrishiLink AI — Smart India Hackathon 2026 Prototype by Team AgroNEX (PS #26132)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "serve": "node server.js"
+  },
+  "keywords": [
+    "krishilink-ai",
+    "agriculture",
+    "smart-india-hackathon-2026",
+    "sih2026",
+    "agronex",
+    "price-discovery",
+    "apmc",
+    "e-nam"
+  ],
+  "author": "Team AgroNEX",
+  "license": "MIT"
+}
